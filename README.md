@@ -1,7 +1,7 @@
 # Java-MySql-Servlet-Web-Application-Blog-Project
 
 ## Uygulama Açıklaması
-
+Blog projesi, yazılmış olan blogları okunabilecek bir ortam sağlamaktadır. Kayıtlı kullanıcılar blog ekleme, silme, düzenleme ve blog arama gibi işlemleri gerçekleştirebilir. İletişim sayfasından iletilmiş olan istek ve öneriler veri tabanına eklenmektedir.
 ## Kullanılan Diller
 
  Dil / Yetenek | :arrow_right: | % |
