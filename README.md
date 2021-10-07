@@ -1,1 +1,1 @@
-# Java-MySql-Servlet-Web-Application-Blog-Project
+# Java-Servlet-MySql-Web-Application-Blog-Project
